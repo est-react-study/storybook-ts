@@ -1,0 +1,30 @@
+.storybook-input {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    border:solid 1px #ccc;
+    border-radius: .2rem;
+    display: inline-block;
+    line-height: 1;
+    height: 30px;
+    width: 200px;
+}
+.storybook-input:focus {
+    outline: none !important;
+    border-color: #719ECE;
+    box-shadow: 0 0 5px #719ECE;
+}
+.storybook-input--small {
+    font-size: 12px;
+    padding: 5px 5px;
+}
+.storybook-input--medium {
+    font-size: 14px;
+    padding: 5px 7px;
+}
+.storybook-input--large {
+    font-size: 16px;
+    padding: 5px 10px;
+}
+
+
+/*# sourceMappingURL=main.7d5d8e79.chunk.css.map*/
